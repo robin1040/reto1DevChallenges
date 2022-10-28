@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+header{
+    margin: 20px 0 0 24px;
+}
+
+header h2{
+    font-family: 'Inconsolata', monospace;
+    font-size: 1.5rem;
+    line-height: 25.18px;
+    color: #333333;
+}
+
+#scarecrow{
+    width:286.83px;
+    height: 238px;
+    margin: 0 44px 0 44px;
+}
+
+#scarecrow img{
+    width: 100%;
+}
+
+#text{
+    margin-left: 24px;
+}
+
+h1{
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 71.9px;
+    color: #333333;
+}
+
+#text p{
+    font-family: 'Space Mono', monospace;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26.66px;
+    color: #4f4f4f;
+    margin-top: 20px;
+}
+
+#text button{
+    width: 216px;
+    height: 68px;
+    background-color: #333333;
+    color: #ffffff;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20.73px;
+    border: none;
+    margin-top: 20px;
+}
+
+footer {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+footer p{
+    font-size: 14px;
+    text-align: center;
+    line-height: 17.07px;
+    color: #BDBDBD;
+}
+
+footer p a{
+    color:#BDBDBD;
+}
